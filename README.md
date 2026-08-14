@@ -1,4 +1,4 @@
-# BlinkIT Grocery Sales Analysis — README
+# BlinkIT Grocery Sales Analysis 
 
 ## 📌 Project Overview
 This project analyzes grocery sales data for **BlinkIT** ("India's Last Minute App") using Power BI. It combines a raw sales dataset (`BlinkIT_Grocery_Data.xlsx`) with an interactive dashboard that breaks down sales performance by item, outlet, and location attributes.
